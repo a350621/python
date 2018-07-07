@@ -1,6 +1,6 @@
 print("功課1")
-n1=int(input("Enter an Number:"))
-n2=int(input("Enter an Number:"))
+n1=int(input("Enter a Number:"))
+n2=int(input("Enter a Number:"))
 op=input("運算：+,-,*,/:")
 if op=="+":
     print(n1+n2)
